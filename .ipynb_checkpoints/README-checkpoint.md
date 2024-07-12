@@ -9,5 +9,3 @@ Day 2:
 Day 3:
 12-July - Numpy (Number Generating Techniques, Indexing)
           Pandas (Basics)
-Day 4:
-13-July - Pandas (Analyze, Data Cleaning, NULL Duplicate values, Indexing, Merge)
