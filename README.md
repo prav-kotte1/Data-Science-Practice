@@ -12,3 +12,6 @@ Day 3:
           
 Day 4:
 13-July - Pandas (Analyze, Data Cleaning, NULL Duplicate values, Indexing, Merge)
+
+Day-5:
+4-Aug - Pandas (Analyze, Data Cleaning, NULL Duplicate values, Indexing, Merge)
